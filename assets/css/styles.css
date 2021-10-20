@@ -314,7 +314,7 @@ img {
 
 /* ===== SKILLS =====*/
 .skills__container {
-  row-gap: 2rem;
+  row-gap: 1rem;
 }
 
 .skills__content {
@@ -341,7 +341,7 @@ img {
 
 /* ===== EDUCATION =====*/
 .education__container {
-  row-gap: 2rem;
+  row-gap: 1rem;
 }
 
 .education__content {
